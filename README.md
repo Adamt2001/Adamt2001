@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Taylor!
 - 👀 I’m interested in Cyber Security, Digital Forensics, Pentesting, Ethical hacking, Programming and many many more!
-- 🌱 I’m currently learning Pentest skills through TryHackMe and HackTheBox, studying for my CCNA while in my first year on my Networking and Cyber Security degree at Northumbria Univerity.
+- 🌱 I’m currently learning Pentest skills through TryHackMe and HackTheBox, studying for my CCNA while in first year on my Networking and Cyber Security degree at Northumbria Univerity.
 - 💞️ I’m looking to collaborate on anything Pentest!
 - 📫 How to reach me:
   - 💼 LinkedIn   - https://www.linkedin.com/in/adam-taylor-47a569224/
